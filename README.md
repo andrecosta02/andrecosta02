@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou um estudante de Sistemas de Informação e desenvolvedor júnior com experiência em ADVPL e um grande interesse em Desenvolvimento Web, especialmente na área de Front-end. Estou sempre buscando aprender e me atualizar com as melhores práticas e tecnologias do mercado.
+Sou um estudante de Sistemas de Informação e desenvolvedor júnior com experiência em ADVPL e um grande interesse em Desenvolvimento Web, especialmente na área de Back-end. Estou sempre buscando aprender e me atualizar com as melhores práticas e tecnologias do mercado.
 
 ## Habilidades
 
